@@ -1,5 +1,4 @@
-
-					
+				
 <?php
 $tanggal1 = $_POST['nilai'];
 $tanggal2 = $_POST['nilai2'];
